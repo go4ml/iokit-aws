@@ -6,10 +6,10 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
+	"go4ml.xyz/errstr"
 	"io"
 	"net/url"
 	"strings"
-	"sudachen.xyz/pkg/errstr"
 )
 
 /*

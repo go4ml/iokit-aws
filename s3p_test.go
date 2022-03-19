@@ -2,7 +2,7 @@ package iokit_aws
 
 import (
 	"fmt"
-	"sudachen.xyz/pkg/iokit"
+	"go4ml.xyz/iokit"
 	"gotest.tools/assert"
 	"io/ioutil"
 	"math/rand"
